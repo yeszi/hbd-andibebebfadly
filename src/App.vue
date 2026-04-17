@@ -89,7 +89,7 @@
           <div class="bg-[#FCF8F5] rounded-3xl p-6 text-left mb-6 border border-[#F1DEC9]">
             <p class="text-[#8D7B68] text-sm leading-loose italic">
               "Happyyy birthday Andikssz! 🤎<br><br>
-              Semoga panjang umur dan sehat selalu, juga ahari-harimu selalu diwarnai kebahagiaan, 
+              Semoga panjang umur dan sehat selalu, juga hari-harimu selalu diwarnai kebahagiaan, 
               dilimpahi cinta, dan dikelilingi orang-orang baik. 
               Tetap jadi pribadi yang taat kepada orang tua dan yang Maha Kuasa dan apa adanya ya ndik.<br><br>
 		Maaf belum bisa kasih apa-apa
