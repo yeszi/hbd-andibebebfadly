@@ -84,7 +84,7 @@
           </div>
           
           <h3 class="text-2xl font-serif text-[#8D7B68] mb-1">Special for You,</h3>
-          <h4 class="text-xl font-medium text-[#A4907C] mb-6">Andibebebfarhan 🕊️</h4>
+          <h4 class="text-xl font-medium text-[#A4907C] mb-6">Andibebebfadly 🕊️</h4>
           
           <div class="bg-[#FCF8F5] rounded-3xl p-6 text-left mb-6 border border-[#F1DEC9]">
             <p class="text-[#8D7B68] text-sm leading-loose italic">
